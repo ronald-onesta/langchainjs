@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hwchase17/langchainjs.git"
+    "url": "https://github.com/ronald-onesta/langchainjs"
   },
   "packageManager": "yarn@3.4.1",
   "scripts": {
