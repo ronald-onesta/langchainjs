@@ -3,7 +3,7 @@
   "name": "langchainjs",
   "private": true,
   "engines": {
-    "node": ">=18"
+    "node": ">=16"
   },
   "workspaces": [
     "langchain",
